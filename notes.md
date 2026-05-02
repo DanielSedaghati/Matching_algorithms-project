@@ -1,4 +1,6 @@
-Ideen:
+Project structure, what the project should include.
+
+Ideas for matching algorithm for ONE(?) uni course:
 
 Input Data:
 Students
@@ -11,12 +13,25 @@ Data Storage:
 CSV oder JSON?
 
 
+Constraints:
+Each student in exactly one group (amount students -> 40/5ß/60/70?)
+Group size limits (group size -> 
+Topic capacity (How many topics? Should it provide a wide range of topics?)
+Availability constraints
 
 
 
-Brauchen wir ein UI?
+Solver/Algorithm options:
 
-Welche Sprache für die Implementierung?
+PuLP
+Google OR-Tools
 
-(Auswahl zwischen R und Python etc.)
+
+
+Questions so far:
+Which language do we use? (R or Python etc.)
+
+Do we need an UI?
+
+
 
