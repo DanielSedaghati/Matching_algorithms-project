@@ -15,7 +15,8 @@ CSV oder JSON?
 
 Constraints:
 Each student in exactly one group (amount students -> 40/50/60/70?)
-Group size limits (group size -> 
+Group size limits (group size -> each student can be assigned to one group only, each group has a minimum(2) and maximum(5)amount of members, number of groups)
+
 Topic capacity (How many topics? Should it provide a wide range of topics?)
 Availability constraints
 
